@@ -1,5 +1,7 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) General Assembly Homework - JS Calculator
 
+<img src="https://cdn0.iconfinder.com/data/icons/entypo/80/link5-512.png" height="0.5" /> [Click here for my completed solution!](https://sarahfwood.github.io/GA-Homework-JS-Calculator/)
+
 ## Instructions
 
 Create a calculator that takes input from the browser. The calculator should display the results using alert. 
